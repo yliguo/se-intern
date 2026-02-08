@@ -49,7 +49,7 @@ def save_history(history):
 
 def build_readme(history):
     """Build README.md content from history, removing duplicates."""
-    header = """# 💼 Finance & Accounting Internships (Live)
+    header = """# 💼 Software Engineer Internships (Live)
 
 Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**  
 ⏱ Updated every 3 hours via GitHub Actions
