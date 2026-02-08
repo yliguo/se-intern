@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-08 01:51 ET
+### 🕒 Batch updated: 2026-02-08 04:31 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -54,8 +54,8 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69674b6cf25a38006695aee2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/69671c74f7d5ac1d4827e1d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986ced78da7a6120461cef0?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b9086db26b618950f1e09?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 07 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/6976dfd0206da320f4a086f7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
@@ -100,6 +100,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/698703e58da7a61204621309?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6986fb108da7a61204620b02?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Feb 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/6986eb5b8da7a6120461fa84?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Feb 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69883ff58ca8121a3a6acefb?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Feb 06 |
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2026 Internship – Tech Internship Program](https://jobright.ai/jobs/info/6986d1358ca8121a3a695148?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Software Engineering Intern (Commercial) -Dallas TX](https://jobright.ai/jobs/info/6986cfce8da7a6120461d1bc?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Interactive Experiences Intern - Summer 2026](https://jobright.ai/jobs/info/6986cf098da7a6120461cfd5?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
@@ -108,5 +109,10 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696b09d8db26b618950e8563?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Feb 06 |
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[Application Development Summer Associate (Intern)](https://jobright.ai/jobs/info/6986c7230f6f7e7a2ce1e9ca?utm_campaign=1079&utm_source=git)** | Warrensville Heights, OH | Hybrid | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Software Engineering](https://jobright.ai/jobs/info/6986c6cb8da7a6120461bba9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Feb 06 |
+
+### 🕒 Batch updated: 2026-02-08 01:51 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | ↳ | **[2026 Voyager Summer Internship - Computer Engineering](https://jobright.ai/jobs/info/6986c64c8da7a6120461bb72?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Feb 06 |
 
