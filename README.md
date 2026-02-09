@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-09 00:00 ET
+### 🕒 Batch updated: 2026-02-09 02:05 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -63,6 +63,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Video-on-Demand Algorithm) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976f86e52f3c27ec64303b5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Architecture) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/68cfc719846f0b04af684e73?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Teradata](https://www.teradata.com)** | **[AI Fullstack Software Engineer-Intern](https://jobright.ai/jobs/info/69165ab46f36db06ef0556a9?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Feb 08 |
+| **[IBM](http://www.ibm.com)** | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/698950f447434001cc6772d8?utm_campaign=1079&utm_source=git)** | Monroe, MI | On Site | Feb 07 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY (Go, distributed systems, VM exp.)](https://jobright.ai/jobs/info/6987b3398da7a6120462ccad?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: Lowell](https://jobright.ai/jobs/info/69879af70f6f7e7a2ce2d776?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/698799d38da7a6120462a869?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
@@ -92,8 +93,8 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698596ac8da7a612046040ea?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698423388da7a612045e2429?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ed1c90badca5763af4789?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69676ecf1703f05405a91f66?utm_campaign=1079&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
 | ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6967989b1703f05405a93939?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69676ecf1703f05405a91f66?utm_campaign=1079&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69857926348f733a5c39e5f6?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69681e2c1703f05405a9bd50?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[AI Driven Skills Growth Development Intern (May 2026 – 16 months)](https://jobright.ai/jobs/info/696596335ad3a93f8230f2b2?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 07 |
@@ -108,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986ced78da7a6120461cef0?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b9086db26b618950f1e09?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+
+### 🕒 Batch updated: 2026-02-09 00:00 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 07 |
 
 ### 🕒 Batch updated: 2026-02-08 21:23 ET
