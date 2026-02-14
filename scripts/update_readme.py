@@ -69,7 +69,9 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
         # Remove duplicates
         unique_rows = []
         for row in rows:
-            key = row  # Using the full row string as the unique key
+            # key = row  # Using the full row string as the unique key
+            parts = row.split("|") # key not include date
+            key = tuple(part.strip() for part in parts[1:-2])
             if key not in seen:
                 seen.add(key)
                 unique_rows.append(row)
