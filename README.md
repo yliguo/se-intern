@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-02 23:47 ET
+### 🕒 Batch updated: 2026-03-03 01:53 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -501,13 +501,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Chronicle & Engineering Intern](https://jobright.ai/jobs/info/69a1d647b600907a96282f43?utm_campaign=1079&utm_source=git)** | Needham, MA, United States | On Site | Feb 27 |
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Internship, IT Systems Development](https://jobright.ai/jobs/info/69a1d630b600907a96282f3a?utm_campaign=1079&utm_source=git)** | Windsor, CT, United States | On Site | Feb 27 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Web Applications/Communications Intern (Year-Round)](https://jobright.ai/jobs/info/696922cf1703f05405aafdff?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 27 |
-
-### 🕒 Batch updated: 2026-02-28 01:39 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[GenPark](https://genpark.ai)** | **[Full stack intern](https://jobright.ai/jobs/info/69a275fd359fe034b1cdbb9f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 27 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a25da20da45516f16ba224?utm_campaign=1079&utm_source=git)** | Durham, CA | Hybrid | Feb 27 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Technology Internship](https://jobright.ai/jobs/info/69a255f0359fe034b1cd8f7d?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Feb 27 |
-| **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 27 |
 
