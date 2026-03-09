@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-08 22:11 ET
+### 🕒 Batch updated: 2026-03-09 00:52 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -68,8 +68,8 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/697be2fe1136d179eeef7eaa?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 07 |
 | ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/697856ee52f3c27ec644ad2c?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 07 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/698674ad8da7a61204613edf?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Mar 07 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/69a5587eb600907a962b00c9?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
-| ↳ | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce70e4fb49c96ca6ea0702?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 07 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce70e4fb49c96ca6ea0702?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 07 |
+| ↳ | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/69a5587eb600907a962b00c9?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
 | ↳ | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69abc4127e1fab39d3837714?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 07 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/697c68973f57a335696615f8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/693e477749a7695fbd04915f?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Mar 07 |
@@ -110,6 +110,13 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Centerfield](http://www.centerfield.com)** | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/69ab99792747003c3d512370?utm_campaign=1079&utm_source=git)** | Los Angeles, California | On Site | Mar 06 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Software Development Intern - On Site - Ankeny, IA](https://jobright.ai/jobs/info/69ab9167142d5b4265fcaa6f?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Mar 06 |
 
+### 🕒 Batch updated: 2026-03-08 22:11 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/69a5587eb600907a962b00c9?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
+| ↳ | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce70e4fb49c96ca6ea0702?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 07 |
+
 ### 🕒 Batch updated: 2026-03-08 17:24 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
@@ -123,8 +130,6 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/69ad99bb142d5b4265fea8a3?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Mar 08 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce70e4fb49c96ca6ea0702?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 07 |
-| ↳ | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/69a5587eb600907a962b00c9?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Computer Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/69ab6576142d5b4265fc9fd3?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 06 |
 
 ### 🕒 Batch updated: 2026-03-08 11:24 ET
@@ -457,13 +462,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a651bfe567421f42574e6d?utm_campaign=1079&utm_source=git)** | Connecticut, United States | On Site | Mar 05 |
 | **[Ericsson](https://www.ericsson.com)** | **[Baseband Software Developer Intern](https://jobright.ai/jobs/info/69aa0e402ebd316bece1c9ab?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern - Payments Summer 2026](https://jobright.ai/jobs/info/69a9a65e9ca4e908ec64e33a?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
-
-### 🕒 Batch updated: 2026-03-05 23:42 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69aa12b61f59c56275e2e32c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 05 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8dc9ca4e908ec652cf9?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Mar 05 |
-| ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8df1f59c56275e2b1ee?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 05 |
-| ↳ | **[Software Engineer Intern - Fraud Summer 2026](https://jobright.ai/jobs/info/69a9a64f2ebd316bece13998?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
 
