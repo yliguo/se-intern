@@ -4,11 +4,19 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-12 02:56 ET
+### 🕒 Batch updated: 2026-03-12 05:43 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boomi](https://boomi.com/)** | **[Unified Experience (UI/UX Tech) Engineering Internship (Hybrid - Vancouver, BC)](https://jobright.ai/jobs/info/69b2692cae2a534885e96c7c?utm_campaign=1079&utm_source=git)** | Canada | Hybrid | Mar 12 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69b25ab7ae2a534885e95a70?utm_campaign=1079&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
+| ↳ | **[Software Engineering Intern – Operating System - Summer 2026](https://jobright.ai/jobs/info/69b25a19a8ac8e70ff663335?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
+| **[Etched](https://www.etched.com)** | **[PD Intern](https://jobright.ai/jobs/info/69b24ee5a8ac8e70ff662152?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (IN)](https://jobright.ai/jobs/info/69b24930ad360c0340a70099?utm_campaign=1079&utm_source=git)** | US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 | On Site | Mar 11 |
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b24824ae2a534885e938ac?utm_campaign=1079&utm_source=git)** | Alaska, United States | Hybrid | Mar 11 |
+| **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69b242fcad360c0340a6fed6?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 11 |
+| **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69b23fbda8ac8e70ff661665?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Mar 11 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69b235c1ad360c0340a6eff6?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Mar 11 |
 | **[Zip](https://www.ziphq.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69b233e2ae2a534885e92778?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 11 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69b22dbad04c69566c74e26b?utm_campaign=1079&utm_source=git)** | Manassas, VA | On Site | Mar 11 |
@@ -16,6 +24,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Mine](https://usemine.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69b225b6d04c69566c74d9ee?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Web Applications and DBs](https://jobright.ai/jobs/info/69b2255cd04c69566c74d937?utm_campaign=1079&utm_source=git)** | Saxonburg, PA | On Site | Mar 11 |
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69b22543548f140066e86236?utm_campaign=1079&utm_source=git)** | Newark, DE | On Site | Mar 11 |
+| **[HERE Technologies](https://www.here.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69b2400ea8ac8e70ff6616a9?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 11 |
 | **[Linq](https://linqapp.com)** | **[Technical Intern](https://jobright.ai/jobs/info/69b2228565de58104c71958c?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Mar 11 |
 | **[General Dynamics](https://www.gd.com)** | **[SW Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69b21df5d04c69566c74d324?utm_campaign=1079&utm_source=git)** | Manassas, VA, US | On Site | Mar 11 |
 | ↳ | **[SW Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69b21df3548f140066e85c7b?utm_campaign=1079&utm_source=git)** | US-VA-Manassas | On Site | Mar 11 |
@@ -37,51 +46,51 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern - Web Applications and DBs](https://jobright.ai/jobs/info/69b1fc5665de58104c716955?utm_campaign=1079&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 11 |
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69b1fc54d04c69566c74a118?utm_campaign=1079&utm_source=git)** | 1300 Marrows Road, Newark, DE, 19711, US | On Site | Mar 11 |
 | **[Rubrik](http://rubrik.com)** | **[Software Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69b1fbb9548f140066e8294e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 11 |
-| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c9?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c8?utm_campaign=1079&utm_source=git)** | New Jersey, United States | Hybrid | Mar 11 |
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c8?utm_campaign=1079&utm_source=git)** | New Jersey, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c9?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c7?utm_campaign=1079&utm_source=git)** | North Dakota, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b4?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b8?utm_campaign=1079&utm_source=git)** | Maine, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b6?utm_campaign=1079&utm_source=git)** | Nevada, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b5?utm_campaign=1079&utm_source=git)** | Oklahoma, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b4?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b6?utm_campaign=1079&utm_source=git)** | Nevada, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b8?utm_campaign=1079&utm_source=git)** | Maine, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8a3548f140066e822b7?utm_campaign=1079&utm_source=git)** | Rhode Island, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f89c548f140066e822a9?utm_campaign=1079&utm_source=git)** | Oregon, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f89c548f140066e822aa?utm_campaign=1079&utm_source=git)** | Mississippi, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f895548f140066e8229c?utm_campaign=1079&utm_source=git)** | Georgia, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f88e548f140066e8228e?utm_campaign=1079&utm_source=git)** | Wyoming, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f883548f140066e8227b?utm_campaign=1079&utm_source=git)** | Minnesota, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f870548f140066e8225c?utm_campaign=1079&utm_source=git)** | Iowa, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f870548f140066e8225d?utm_campaign=1079&utm_source=git)** | Maryland, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f870548f140066e8225c?utm_campaign=1079&utm_source=git)** | Iowa, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f870548f140066e8225b?utm_campaign=1079&utm_source=git)** | South Carolina, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f86b548f140066e82252?utm_campaign=1079&utm_source=git)** | Hampton, VA | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f71a65de58104c716012?utm_campaign=1079&utm_source=git)** | West Virginia, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f71065de58104c716006?utm_campaign=1079&utm_source=git)** | Arkansas, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f71065de58104c716005?utm_campaign=1079&utm_source=git)** | Montana, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f71065de58104c716006?utm_campaign=1079&utm_source=git)** | Arkansas, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f70665de58104c715ffb?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6f865de58104c715fea?utm_campaign=1079&utm_source=git)** | Indiana, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6f865de58104c715fee?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6f865de58104c715feb?utm_campaign=1079&utm_source=git)** | South Dakota, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6f865de58104c715fee?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6f865de58104c715fea?utm_campaign=1079&utm_source=git)** | Indiana, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6f865de58104c715fed?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e765de58104c715fd5?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e765de58104c715fd7?utm_campaign=1079&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e765de58104c715fd4?utm_campaign=1079&utm_source=git)** | Kentucky, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e5d04c69566c7497c6?utm_campaign=1079&utm_source=git)** | Colorado, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e5d04c69566c7497c8?utm_campaign=1079&utm_source=git)** | Hawaii, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e765de58104c715fd7?utm_campaign=1079&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e5d04c69566c7497c7?utm_campaign=1079&utm_source=git)** | Utah, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e5d04c69566c7497c8?utm_campaign=1079&utm_source=git)** | Hawaii, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e5d04c69566c7497c6?utm_campaign=1079&utm_source=git)** | Colorado, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e0d04c69566c7497b1?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6e0d04c69566c7497b2?utm_campaign=1079&utm_source=git)** | Michigan, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6db65de58104c715fcb?utm_campaign=1079&utm_source=git)** | Delaware, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6db65de58104c715fca?utm_campaign=1079&utm_source=git)** | Vermont, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6d6d04c69566c749795?utm_campaign=1079&utm_source=git)** | Connecticut, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6d6d04c69566c749794?utm_campaign=1079&utm_source=git)** | Missouri, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6ced04c69566c749774?utm_campaign=1079&utm_source=git)** | Alabama, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6d6d04c69566c749795?utm_campaign=1079&utm_source=git)** | Connecticut, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6ced04c69566c749773?utm_campaign=1079&utm_source=git)** | New Hampshire, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6c7d04c69566c749760?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6ced04c69566c749774?utm_campaign=1079&utm_source=git)** | Alabama, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6c7d04c69566c74975e?utm_campaign=1079&utm_source=git)** | Ohio, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749739?utm_campaign=1079&utm_source=git)** | Florida, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749736?utm_campaign=1079&utm_source=git)** | New Mexico, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749738?utm_campaign=1079&utm_source=git)** | Kansas, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6c7d04c69566c749760?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749737?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749739?utm_campaign=1079&utm_source=git)** | Florida, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749738?utm_campaign=1079&utm_source=git)** | Kansas, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6b7d04c69566c749736?utm_campaign=1079&utm_source=git)** | New Mexico, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6a5d04c69566c749718?utm_campaign=1079&utm_source=git)** | Tennessee, United States | Hybrid | Mar 11 |
 | ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f6a5d04c69566c749719?utm_campaign=1079&utm_source=git)** | Louisiana, United States | Hybrid | Mar 11 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Software Summer Internship](https://jobright.ai/jobs/info/69b1f463548f140066e81c1b?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Mar 11 |
@@ -92,7 +101,6 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b2102c65de58104c717d5a?utm_campaign=1079&utm_source=git)** | Idaho, United States | Hybrid | Mar 11 |
 | **[Parallel](https://www.moveparallel.com)** | **[Vehicle Software Engineering Intern](https://jobright.ai/jobs/info/69b1f0d7548f140066e810a8?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Black Hills Energy](https://www.blackhillsenergy.com )** | **[IT Asset Management Internship](https://jobright.ai/jobs/info/69b1ed4f65de58104c71428d?utm_campaign=1079&utm_source=git)** | Rapid City, SD | On Site | Mar 11 |
-| **[Last Lock](https://lastlock.com)** | **[Firmware Engineering - Intern](https://jobright.ai/jobs/info/69b1eb3c548f140066e7fee4?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Mar 11 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1ea9e65de58104c713ae6?utm_campaign=1079&utm_source=git)** | Nebraska, United States | Hybrid | Mar 11 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69b1e9ea548f140066e7fab2?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Mar 11 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year Round - Formal Methods, Remote](https://jobright.ai/jobs/info/69a1315c6b458d060735ec87?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Mar 11 |
@@ -101,6 +109,14 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[HP](http://www.hp.com)** | **[Software Engineer Intern, Cloud Services - HP IQ](https://jobright.ai/jobs/info/69b1df6465de58104c7118c7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 11 |
 | **[Intel](http://www.intel.com)** | **[Discrete Graphics Validation Internship](https://jobright.ai/jobs/info/69b1ca0a65de58104c70ddcf?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69b1de6dd04c69566c744bbf?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Mar 11 |
+
+### 🕒 Batch updated: 2026-03-12 02:56 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c9?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
+| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c8?utm_campaign=1079&utm_source=git)** | New Jersey, United States | Hybrid | Mar 11 |
+| **[Last Lock](https://lastlock.com)** | **[Firmware Engineering - Intern](https://jobright.ai/jobs/info/69b1eb3c548f140066e7fee4?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Mar 11 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineering Intern](https://jobright.ai/jobs/info/69b1db26548f140066e7cc5a?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Mar 11 |
 | **[BRPH](http://brph.com)** | **[Architect Intern](https://jobright.ai/jobs/info/69b1d6e365de58104c70ffb8?utm_campaign=1079&utm_source=git)** | Lynnwood, Washington, United States | On Site | Mar 11 |
 | **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69b1d6ae548f140066e7c025?utm_campaign=1079&utm_source=git)** | Providence County, RI | Hybrid | Mar 11 |
@@ -116,7 +132,6 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 |--------|------|----------|------|-------------|------|
 | **[GenPark](https://genpark.ai)** | **[Frontend engineer intern](https://jobright.ai/jobs/info/69b21a30d04c69566c74c61f?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 11 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c7?utm_campaign=1079&utm_source=git)** | North Dakota, United States | Hybrid | Mar 11 |
-| ↳ | **[Applied Formal Methods Research for Safety‑Critical Aerospace Systems - Intern](https://jobright.ai/jobs/info/69b1f8ac548f140066e822c9?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
 | **[PropyLaw](www.propylaw.com)** | **[Technical Team Lead](https://jobright.ai/jobs/info/69b1d074d04c69566c742566?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Mar 11 |
 | **[Texas Instruments](http://www.ti.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b1ce7b548f140066e7a9ae?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 11 |
 | **[McKesson](http://www.mckesson.com)** | **[Stagiaire en développement logiciel - Été 2026 / Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/69b1fa5b65de58104c7163ea?utm_campaign=1079&utm_source=git)** | CAN, QC, Montreal, Ville Saint-Laurent | Hybrid | Mar 11 |
@@ -800,15 +815,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Together AI](https://www.together.ai)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69ab914b2747003c3d511009?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
 | **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/69a95c0df2055e05d17181e9?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Mar 06 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Software / System Test Engineering Intern](https://jobright.ai/jobs/info/69ab949b142d5b4265fcb0e5?utm_campaign=1079&utm_source=git)** | Billerica, MA | Hybrid | Mar 06 |
-
-### 🕒 Batch updated: 2026-03-09 05:52 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - IVN ETH Software Engineer](https://jobright.ai/jobs/info/69ae69394f6bcc1828099543?utm_campaign=1079&utm_source=git)** | Shanghai, VA | Hybrid | Mar 08 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern - Dulles VA - R10224851](https://jobright.ai/jobs/info/69a9f7d79ca4e908ec6544bc?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Mar 07 |
-| **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/69ae3e767c309707d4af5d39?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Mar 06 |
-| **[Intel](http://www.intel.com)** | **[Compiler Engineering Intern - Performance Tracking and Analysis](https://jobright.ai/jobs/info/69ab9536142d5b4265fcb3d5?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
-| **[Auria Space](https://www.auria.space)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69abdcfc142d5b4265fd4c5a?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ab9169142d5b4265fcaa81?utm_campaign=1079&utm_source=git)** | Aurora, IL | On Site | Mar 06 |
 
