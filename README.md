@@ -4,11 +4,20 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-14 05:33 ET
+### 🕒 Batch updated: 2026-03-14 08:53 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69991808e0bddb6acac812fd?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Mar 14 |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/69991b0281476f6176b19733?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Embedded Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/69ad2bb02747003c3d52bb74?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Mar 14 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/69617a4fe7ed9a5731ba42f3?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Mar 14 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Mar 14 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/69b52a4d06c1ba00c546ecc4?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Mar 14 |
+| **[P2S](http://p2seng.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b5213006c1ba00c546e544?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Mar 14 |
+| **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69b5191706c1ba00c546d133?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Mar 14 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69b515ca56973837413a3853?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 14 |
 | **[GenPark](https://genpark.ai)** | **[Front end engineer intern](https://jobright.ai/jobs/info/69b50efe3b74eb1e2c829e59?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Mar 14 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/69b5061c06c1ba00c546a11b?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Mar 13 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/69b0a9cc0b2db6275c05052f?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Mar 13 |
@@ -28,8 +37,8 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Developer Intern - Hybrid-Dallas, TX](https://jobright.ai/jobs/info/69b4c4803b74eb1e2c82237e?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 13 |
 | ↳ | **[Developer Intern - Hybrid, El Paso, TX](https://jobright.ai/jobs/info/69b4c47d06c1ba00c54643b1?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 13 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b0c52a749500645097ae66?utm_campaign=1079&utm_source=git)** | Farmington, CT | On Site | Mar 13 |
-| **[Nextech Systems](http://www.nextech.com)** | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b4bc103b74eb1e2c820b5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
-| ↳ | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b4bc103b74eb1e2c820b5f?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Nextech Systems](http://www.nextech.com)** | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b4bc103b74eb1e2c820b5f?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
+| ↳ | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b4bc103b74eb1e2c820b5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
 | **[AEVEX](https://www.aevex.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b4bb13569738374139916c?utm_campaign=1079&utm_source=git)** | Solana Beach, CA | On Site | Mar 13 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[2026 Software Dev Engineer Intern - Germany](https://jobright.ai/jobs/info/69b4b3375697383741398df9?utm_campaign=1079&utm_source=git)** | Dresden, TN | On Site | Mar 13 |
 | **[Amazon](https://amazon.com)** | **[2026 Software Dev Engineer Intern - Germany](https://jobright.ai/jobs/info/69b4b31a3b74eb1e2c820661?utm_campaign=1079&utm_source=git)** | Dresden, TN | On Site | Mar 13 |
@@ -100,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Core SWE Intern](https://jobright.ai/jobs/info/69b44b5d06c1ba00c5458cf5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 | **[Waters Corporation](http://www.waters.com)** | **[TA Instruments - Software Engineering Intern - Next Generation SW Platform](https://jobright.ai/jobs/info/69aeda726b21de023e5fe66f?utm_campaign=1079&utm_source=git)** | New Castle, DE | On Site | Mar 13 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/697c0f7c1136d179eeefb48c?utm_campaign=1079&utm_source=git)** | Fort Mill, SC | On Site | Mar 13 |
+
+### 🕒 Batch updated: 2026-03-14 05:33 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Nextech Systems](http://www.nextech.com)** | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b4bc103b74eb1e2c820b5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
+| ↳ | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b4bc103b74eb1e2c820b5f?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Azure Server Performance](https://jobright.ai/jobs/info/696fe33f3ed06875134acc44?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Mar 13 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/69a3959d0da45516f16c9d21?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
 | **[Global Science & Technology, Inc](http://www.gst.com)** | **[Summer Intern Software Developer](https://jobright.ai/jobs/info/69b442ed06c1ba00c54578c1?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Mar 13 |
@@ -814,22 +830,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8ccdfaeda6ff59b11e4?utm_campaign=1079&utm_source=git)** | Tennessee, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8880b2db6275c05223f?utm_campaign=1079&utm_source=git)** | South Dakota, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8880b2db6275c052240?utm_campaign=1079&utm_source=git)** | Rhode Island, United States | Hybrid | Mar 10 |
-
-### 🕒 Batch updated: 2026-03-11 09:02 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8880b2db6275c05223a?utm_campaign=1079&utm_source=git)** | Idaho, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8970b2db6275c05227d?utm_campaign=1079&utm_source=git)** | Arkansas, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b4c?utm_campaign=1079&utm_source=git)** | Montana, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8880b2db6275c05223d?utm_campaign=1079&utm_source=git)** | Mississippi, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8ccdfaeda6ff59b11e5?utm_campaign=1079&utm_source=git)** | Oregon, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b49?utm_campaign=1079&utm_source=git)** | Nevada, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8dcdfaeda6ff59b1207?utm_campaign=1079&utm_source=git)** | Connecticut, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8ccdfaeda6ff59b11df?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8880b2db6275c05223c?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b4f?utm_campaign=1079&utm_source=git)** | Oklahoma, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8ccdfaeda6ff59b11e2?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b87a0b2db6275c052227?utm_campaign=1079&utm_source=git)** | Vermont, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8c77495006450978b76?utm_campaign=1079&utm_source=git)** | Ohio, United States | Hybrid | Mar 10 |
 
