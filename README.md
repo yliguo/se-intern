@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-18 22:22 ET
+### 🕒 Batch updated: 2026-03-19 00:55 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -670,12 +670,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69b73e1206c1ba00c548ec01?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 15 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[High School Intern](https://jobright.ai/jobs/info/69b58b8006c1ba00c54778ba?utm_campaign=1079&utm_source=git)** | Spring, TX | On Site | Mar 14 |
 | **[Roadie](https://www.roadie.com/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/699917b7e0bddb6acac8126d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 14 |
-
-### 🕒 Batch updated: 2026-03-16 01:16 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[SKXYWTF](http://www.worldtradefactory.com)** | **[The Future Belongs to you - Blockchain Engineering Intern](https://jobright.ai/jobs/info/69b74e9c3b74eb1e2c84d5d5?utm_campaign=1079&utm_source=git)** | United States | On Site | Mar 15 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern - Test Engineer](https://jobright.ai/jobs/info/69b56e793b74eb1e2c831164?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[High School Intern](https://jobright.ai/jobs/info/69b5341c56973837413a635b?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Mar 14 |
 
