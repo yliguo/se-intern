@@ -4,11 +4,12 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-20 00:47 ET
+### 🕒 Batch updated: 2026-03-20 02:56 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering- JL](https://jobright.ai/jobs/info/69bcc4cfe6a0d9792584cda4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 19 |
 | **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bcb95a4828227293fe9a8e?utm_campaign=1079&utm_source=git)** | Gaithersburg, MD | On Site | Mar 19 |
 | **[Nasuni](https://www.nasuni.com)** | **[Software Engineering Intern in Test - Internship](https://jobright.ai/jobs/info/69bcb6fce6a0d9792584b739?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Mar 19 |
 | ↳ | **[Software Engineering Intern in Test - Internship](https://jobright.ai/jobs/info/69bcb241e6a0d9792584b4c8?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 19 |
@@ -67,8 +68,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997bbb1ce78e77b4fdc19cb?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 19 |
 | ↳ | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997c4b4e0bddb6acac68842?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Mar 19 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6984e3830f6f7e7a2cdf5fd7?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Developer](https://jobright.ai/jobs/info/69bc442d45e08b3dc1f8aecc?utm_campaign=1079&utm_source=git)** | Williamsville, NY | Hybrid | Mar 19 |
-| ↳ | **[Summer Intern - Information Systems](https://jobright.ai/jobs/info/69bc441545e08b3dc1f8ae40?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 19 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Information Systems](https://jobright.ai/jobs/info/69bc441545e08b3dc1f8ae40?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 19 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Associate Software Engineer Intern](https://jobright.ai/jobs/info/6983f06f348f733a5c378fd6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
 | **[COCC](http://www.cocc.com)** | **[Software Development Summer Intern](https://jobright.ai/jobs/info/69bc3b6845e08b3dc1f897d0?utm_campaign=1079&utm_source=git)** | Southington, CT, USA | On Site | Mar 19 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2026](https://jobright.ai/jobs/info/69826e14348f733a5c354502?utm_campaign=1079&utm_source=git)** | Twin Cities Area | Hybrid | Mar 19 |
@@ -109,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Maximus](http://www.maximus.com/)** | **[Senior Front-End Developer](https://jobright.ai/jobs/info/69bbfe6d4828227293fd15cc?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Compiler Software](https://jobright.ai/jobs/info/699fef6c53d97f23ee6582d1?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 19 |
 | **[MGIC](https://www.mgic.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/698270a7348f733a5c354b3c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
+
+### 🕒 Batch updated: 2026-03-20 00:47 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Developer](https://jobright.ai/jobs/info/69bc442d45e08b3dc1f8aecc?utm_campaign=1079&utm_source=git)** | Williamsville, NY | Hybrid | Mar 19 |
+| ↳ | **[Summer Intern - Information Systems](https://jobright.ai/jobs/info/69bc441545e08b3dc1f8ae40?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 19 |
 
 ### 🕒 Batch updated: 2026-03-19 22:08 ET
 
@@ -706,11 +713,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/69a6516cd706a731db3831a6?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978426639f7f96cc6d09696?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 16 |
 | **[Zoox](https://www.zoox.com/)** | **[Firmware Validation Tooling Intern](https://jobright.ai/jobs/info/690f0318221b890c2781333e?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Mar 16 |
-
-### 🕒 Batch updated: 2026-03-17 03:05 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[GenPark](https://genpark.ai)** | **[Front end intern](https://jobright.ai/jobs/info/69b8df5256973837413e6f35?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Mar 16 |
-| **[Partner SF](https://www.partnersf.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69b8de7206c1ba00c54afefd?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 16 |
 
