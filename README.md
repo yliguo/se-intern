@@ -4,11 +4,13 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-21 00:26 ET
+### 🕒 Batch updated: 2026-03-21 02:44 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[R.D. Offutt Company](https://www.linkedin.com/company/6140330)** | **[Software Developer Intern (QA/Test Engineering Focus)](https://jobright.ai/jobs/info/69be0a63b106024562836c32?utm_campaign=1079&utm_source=git)** | Fargo, ND | On Site | Mar 20 |
+| **[Guild](https://www.guild.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69be043e482822729300bb31?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Coverdash](https://www.coverdash.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69be000e393a1008f743dad8?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Mar 20 |
 | **[BDI](https://bditest.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69bde47e393a1008f743b9cd?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69bde484b106024562834821?utm_campaign=1079&utm_source=git)** | Headquarters {CO}, Louisville, CO, US | On Site | Mar 20 |
@@ -107,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Cohesity](https://www.cohesity.com/)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69bd42f14828227293ff7aef?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 20 |
 | **[Maximus](http://www.maximus.com/)** | **[Senior Front End Developer](https://jobright.ai/jobs/info/69bd427bb10602456282292b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Lead Engineer - CCaaS Operations](https://jobright.ai/jobs/info/698a3e2a47434001cc6872f5?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
+
+### 🕒 Batch updated: 2026-03-21 00:26 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Mar 20 |
 | **[STERIS](http://steris.com)** | **[Oracle Intern](https://jobright.ai/jobs/info/69a0f8f881476f6176bb53e2?utm_campaign=1079&utm_source=git)** | Mentor, OH | Hybrid | Mar 20 |
 
@@ -729,14 +736,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[SAP Successfactors iXp Intern - Software Developer - SUMMER 2026](https://jobright.ai/jobs/info/69b8c73b56973837413e641f?utm_campaign=1079&utm_source=git)** | San Ramon, CA, US, 945 83 | Hybrid | Mar 16 |
 | **[Bookmyhelp](https://bookmyhelp.com/)** | **[Backend Developer / Unpaid Co-op/Internship / Summer/May'26 Intake](https://jobright.ai/jobs/info/69b8d30706c1ba00c54af894?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b8c3783b74eb1e2c86ce42?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 16 |
-
-### 🕒 Batch updated: 2026-03-18 03:02 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69b9b21056973837413f2c7e?utm_campaign=1079&utm_source=git)** | El Paso, TX, US | On Site | Mar 17 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69b9b20d06c1ba00c54bb7e3?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | Mar 17 |
-| ↳ | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69b9b20d06c1ba00c54bb7dc?utm_campaign=1079&utm_source=git)** | Atlanta, GA, US | On Site | Mar 17 |
-| **[SAP](https://www.sap.com)** | **[SAP Successfactors iXp Intern - Software Developer - SUMMER 2026](https://jobright.ai/jobs/info/69b8c73b56973837413e641f?utm_campaign=1079&utm_source=git)** | San Ramon, CA, US, 945 83 | Hybrid | Mar 16 |
-| ↳ | **[SAP iXp Intern - Platform Infrastructure Engineer - SUMMER 2026](https://jobright.ai/jobs/info/69b8c73b56973837413e641e?utm_campaign=1079&utm_source=git)** | San Ramon, CA, US, 945 83 | Hybrid | Mar 16 |
 
