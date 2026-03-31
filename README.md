@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 15:02 ET
+### 🕒 Batch updated: 2026-03-31 17:40 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -414,16 +414,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[DemaDose](https://www.demadose.com/)** | **[Front-End Engineer (React Native)](https://jobright.ai/jobs/info/69c82a0283ea553769fe8c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
 | **[DC INFOTECH  CLOUD SOLUTIONS US](dcinfotech.org.in)** | **[Google Cloud Internship Program](https://jobright.ai/jobs/info/69c814df1b5ad02887391e1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer Internship / 16242](https://jobright.ai/jobs/info/69c80eb3b773006330b7dac0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Mar 28 |
-
-### 🕒 Batch updated: 2026-03-28 17:30 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[iWorks Corporation](https://iworkscorp.com/)** | **[Application Development Internship](https://jobright.ai/jobs/info/69c7efcbe565c26a7002c98d?utm_campaign=1079&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
-| ↳ | **[Summer 2026 Software Developer (Intern)](https://jobright.ai/jobs/info/69c6f2ce1818a24cd84c9e52?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Mar 27 |
-| **[Company 9 LLC](http://www.company9llc.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e14678?utm_campaign=1079&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Mar 27 |
-| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c703621818a24cd84cac53?utm_campaign=1079&utm_source=git)** | Dallas, TX, US | On Site | Mar 27 |
-| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7016783ea553769fdfb67?utm_campaign=1079&utm_source=git)** | US | On Site | Mar 27 |
-| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7008ee565c26a70024c07?utm_campaign=1079&utm_source=git)** | US-TX-Dallas | On Site | Mar 27 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/69c6e31e1b5ad02887387d60?utm_campaign=1079&utm_source=git)** | Sherman, TX | On Site | Mar 27 |
 
