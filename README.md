@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 09:20 ET
+### 🕒 Batch updated: 2026-03-31 12:05 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -42,7 +42,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Intern - Software Engineering, AI User Experience](https://jobright.ai/jobs/info/69cb2c861b5ad028873a95b4?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Mar 30 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/69cb1fb81b5ad028873a90a8?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | Hybrid | Mar 30 |
 | ↳ | **[Software Intern](https://jobright.ai/jobs/info/69cb1f85e565c26a700450fc?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | Hybrid | Mar 30 |
-| **[Ribbon Business](https://getribbon.ai)** | **[Software Engineer Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69cb1ee51b5ad028873a8c8b?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
+| **[Ribbon Business](https://ribbonbusiness.com)** | **[Software Engineer Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69cb1ee51b5ad028873a8c8b?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[RRD](http://www.rrd.com)** | **[Application Developer Summer Intern](https://jobright.ai/jobs/info/69cb14b3e565c26a700448a5?utm_campaign=1079&utm_source=git)** | Logan, UT | Hybrid | Mar 30 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69cb126ee565c26a70044813?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Mar 30 |
 | **[EnerSys](http://enersys.com)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/69cb12601b5ad028873a8865?utm_campaign=1079&utm_source=git)** | Reading, PA | On Site | Mar 30 |
@@ -109,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Full Stack Developer Intern, Information Technology](https://jobright.ai/jobs/info/69caacbea8c1822476e1f1ac?utm_campaign=1079&utm_source=git)** | US-TX-Plano | Hybrid | Mar 30 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, OnBase Development](https://jobright.ai/jobs/info/69caaca5aa3c2c1995e2f0e9?utm_campaign=1079&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Mar 30 |
 | ↳ | **[Intern, OnBase Development](https://jobright.ai/jobs/info/69caaca3466f1e133aac6030?utm_campaign=1079&utm_source=git)** | Remote - U.S. | Remote | Mar 30 |
+
+### 🕒 Batch updated: 2026-03-31 09:20 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Ribbon Business](https://getribbon.ai)** | **[Software Engineer Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69cb1ee51b5ad028873a8c8b?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 
 ### 🕒 Batch updated: 2026-03-31 06:05 ET
 
@@ -435,20 +441,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Matthews Marking Systems](https://matthewsmarking.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69c6d3391b5ad02887387408?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Mar 27 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69c6d31f83ea553769fddba8?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Computer Science Engineering Team Internship - Summer 2026](https://jobright.ai/jobs/info/69c6d0c31b5ad02887387313?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Mar 27 |
-
-### 🕒 Batch updated: 2026-03-28 11:31 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Company 9 LLC](http://www.company9llc.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7016783ea553769fdfb67?utm_campaign=1079&utm_source=git)** | US | On Site | Mar 27 |
-| **[Armada](https://www.armada.ai)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af8?utm_campaign=1079&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Mar 27 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Frontend Developer](https://jobright.ai/jobs/info/69c6cef1e565c26a70022e04?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Mar 27 |
-| **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 27 |
-| **[MASIV | Mercedes and Singh Innovative Ventures](http://www.mercedesandsingh.com)** | **[Software Engineer Intern (Summer 2026) 8-16 months](https://jobright.ai/jobs/info/69c6ccb8b773006330b72fab?utm_campaign=1079&utm_source=git)** | Calgary, AB | On Site | Mar 27 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69c357bf7a7a0045db88ee7d?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Mar 27 |
-| **[Matthews Marking Systems](https://matthewsmarking.com/)** | **[Intern](https://jobright.ai/jobs/info/69c6cad51b5ad02887387173?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Mar 27 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/69c6c9801818a24cd84c8700?utm_campaign=1079&utm_source=git)** | 6800 South, US-75, Sherman, TX, 75090, US | On Site | Mar 27 |
-| **[Altera](https://www.altera.com)** | **[Embedded Solutions-Intern](https://jobright.ai/jobs/info/69c6e4a81b5ad02887387dbb?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Mar 27 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/69b4a3da06c1ba00c5461fe8?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 27 |
-| **[Aflac](http://www.aflac.com)** | **[Software Engineer III (Mulesoft)](https://jobright.ai/jobs/info/69c6bfe3aa3c2c1995e11cae?utm_campaign=1079&utm_source=git)** | Columbus, GA | Hybrid | Mar 27 |
 
