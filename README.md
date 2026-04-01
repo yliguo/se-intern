@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 17:40 ET
+### 🕒 Batch updated: 2026-03-31 22:40 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -406,12 +406,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7008ee565c26a70024c07?utm_campaign=1079&utm_source=git)** | US-TX-Dallas | On Site | Mar 27 |
-
-### 🕒 Batch updated: 2026-03-28 22:31 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[DemaDose](https://www.demadose.com/)** | **[Front-End Engineer (React Native)](https://jobright.ai/jobs/info/69c82a0283ea553769fe8c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
-| **[DC INFOTECH  CLOUD SOLUTIONS US](dcinfotech.org.in)** | **[Google Cloud Internship Program](https://jobright.ai/jobs/info/69c814df1b5ad02887391e1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[Summer Internship / 16242](https://jobright.ai/jobs/info/69c80eb3b773006330b7dac0?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Mar 28 |
 
