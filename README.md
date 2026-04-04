@@ -4,11 +4,12 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-04 03:02 ET
+### 🕒 Batch updated: 2026-04-04 05:38 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69d0c1bdcfdc6132f943f663?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 04 |
 | **[SkipQ](http://www.skiptq.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69d0a3e654f00230c6d14221?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d098c8cdb525785fbac059?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 03 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -17,6 +18,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Software Developer Intern (Summer Internship Opportunity) - Remote](https://jobright.ai/jobs/info/69d08a34891d7b11cfcdc6dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69ce1fcf398fb071abf81b97?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
+| ↳ | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69d0a9bccdb525785fbac8f1?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d075f20b098b7a6707988b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d068e9366bb95ba551e1b4?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
 | ↳ | **[Software Engineer Intern - eTail](https://jobright.ai/jobs/info/69d068d4cfdc6132f943b134?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
@@ -107,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern - Embedded Firmware Engineer, Battery Software, Summer 2026](https://jobright.ai/jobs/info/69b370a4ae2a534885eaddd7?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Apr 03 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Solutions Engineer - Intern](https://jobright.ai/jobs/info/69963013e0bddb6acac49007?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 03 |
 | **[Radiant](https://radiantnuclear.com)** | **[Summer 2026 Internship - Software Engineering](https://jobright.ai/jobs/info/69b35ffdad360c0340a87a97?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Apr 03 |
+
+### 🕒 Batch updated: 2026-04-04 03:02 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[Planet](http://www.planet.com)** | **[Intern, Software Engineering, AI](https://jobright.ai/jobs/info/69b3419ea8ac8e70ff67823e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69cfa50354f00230c6d0b8b6?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 
@@ -653,14 +660,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Software Engineering Intern](https://jobright.ai/jobs/info/69cc089e366bb95ba54ed27a?utm_campaign=1079&utm_source=git)** | Chantilly, Virginia | On Site | Mar 31 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, QA Engineering](https://jobright.ai/jobs/info/69cc088fcdb525785fb791e5?utm_campaign=1079&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Mar 31 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69cc6488cfdc6132f940c027?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Mar 31 |
-
-### 🕒 Batch updated: 2026-04-01 06:06 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cc2b7a891d7b11cfcaacbe?utm_campaign=1079&utm_source=git)** | Alexandria, VA | Hybrid | Mar 31 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69af1d676b21de023e603178?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 31 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[SDET Intern](https://jobright.ai/jobs/info/69af5add749500645093d77a?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
-| **[Tarrant Regional Water District](https://www.trwd.com/)** | **[Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69cc005bcfdc6132f9409d44?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 31 |
-| **[Stony Brook University](http://stonybrook.edu)** | **[Senior Programmer/Analyst](https://jobright.ai/jobs/info/69cc1f4e8130af1ac83369f4?utm_campaign=1079&utm_source=git)** | Stony Brook, NY | On Site | Mar 31 |
 
