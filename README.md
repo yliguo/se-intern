@@ -4,11 +4,16 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-04 05:38 ET
+### 🕒 Batch updated: 2026-04-04 08:57 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtran](http://www.adtran.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6998e338ce78e77b4fdd719d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 04 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Quality Assurance Intern Summer 2026](https://jobright.ai/jobs/info/69b47cbd3b74eb1e2c81d355?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 04 |
+| **[Robinhood](https://www.robinhood.com)** | **[Software Engineering Intern, Android (Summer 2026)](https://jobright.ai/jobs/info/68d1a27bcece431f8b58648c?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | Hybrid | Apr 04 |
+| **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Apr 04 |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69991808e0bddb6acac812fd?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Apr 04 |
 | **[GenPark](https://genpark.ai)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69d0c1bdcfdc6132f943f663?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 04 |
 | **[SkipQ](http://www.skiptq.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69d0a3e654f00230c6d14221?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d098c8cdb525785fbac059?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 03 |
@@ -104,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69c20e7775f7ff1cd810bd80?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Apr 03 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Information Technology (Production)](https://jobright.ai/jobs/info/69b31d9fae2a534885ea6b24?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69b76ac706c1ba00c549229a?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
+
+### 🕒 Batch updated: 2026-04-04 05:38 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69c0f7fc79e36d3a847d7d28?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 03 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/69b325e1ad360c0340a8458a?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 03 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern - Embedded Firmware Engineer, Battery Software, Summer 2026](https://jobright.ai/jobs/info/69b370a4ae2a534885eaddd7?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Apr 03 |
@@ -639,25 +649,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Varda Space Industries](http://varda.com)** | **[Flight Software (C++) Internship - Fall 2026](https://jobright.ai/jobs/info/69c27b26ec22f8310ab04a58?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/69cc4ba7e1921223acc7519f?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Mar 31 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - UI Software Development](https://jobright.ai/jobs/info/69cc1be4891d7b11cfcaa795?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 31 |
-
-### 🕒 Batch updated: 2026-04-01 09:23 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Full Stack Developer Intern](https://jobright.ai/jobs/info/69cc794dcfdc6132f940c724?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 31 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425e1921223acc742ce?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Mar 31 |
-| ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425366bb95ba54edc1c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Mar 31 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Configurations Intern](https://jobright.ai/jobs/info/69b0679e749500645096960e?utm_campaign=1079&utm_source=git)** | Georgia, United States | On Site | Mar 31 |
-| **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - Software Developer, Learning (SUMMER 2026)](https://jobright.ai/jobs/info/69af3488749500645093b59c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 31 |
-| **[2U](http://2u.com)** | **[Enterprise / Principal CRM Architect – Salesforce](https://jobright.ai/jobs/info/696552fba112b40266132a19?utm_campaign=1079&utm_source=git)** | Crystal City, VA | Hybrid | Mar 31 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Warehouse Lending & Custody Solutions](https://jobright.ai/jobs/info/69cc165f366bb95ba54ed725?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 31 |
-| **[Resilience](https://resilience.com)** | **[Full Stack Software Engineering Intern](https://jobright.ai/jobs/info/69cc11b6891d7b11cfcaa415?utm_campaign=1079&utm_source=git)** | California City, California, United States | Hybrid | Mar 31 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Student Intern](https://jobright.ai/jobs/info/69b008bb0b2db6275c033e55?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | Mar 31 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Software Engineering Intern](https://jobright.ai/jobs/info/69cc4798cfdc6132f940b599?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Mar 31 |
-| **[ZEST - A PRODUCT BY DC INFOTECH](dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69cc3818891d7b11cfcab1d7?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 31 |
-| **[Mouser Electronics](http://mouser.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69cc08e0e1921223acc73a1f?utm_campaign=1079&utm_source=git)** | Mansfield, TX, United States | On Site | Mar 31 |
-| **[Leidos](https://www.leidos.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69cc08a7cfdc6132f9409f5d?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 31 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Software Engineering Intern](https://jobright.ai/jobs/info/69cc089e366bb95ba54ed27a?utm_campaign=1079&utm_source=git)** | Chantilly, Virginia | On Site | Mar 31 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, QA Engineering](https://jobright.ai/jobs/info/69cc088fcdb525785fb791e5?utm_campaign=1079&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Mar 31 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69cc6488cfdc6132f940c027?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Mar 31 |
 
