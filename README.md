@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-18 01:07 ET
+### 🕒 Batch updated: 2026-04-18 03:09 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -78,7 +78,6 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/698d15c2f64d441a164efc16?utm_campaign=1079&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a9db9b2ebd316bece16bdd?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 17 |
-| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69c59e63e565c26a70012bca?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Apr 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern](https://jobright.ai/jobs/info/69c551ac1818a24cd84b3d2a?utm_campaign=1079&utm_source=git)** | Dulles, VA | Hybrid | Apr 17 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[CORE Studio Intern](https://jobright.ai/jobs/info/69a950a87f9271426f882d26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Apr 17 |
@@ -109,6 +108,13 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e1789eacc736112f5c3dc5?utm_campaign=1079&utm_source=git)** | Appleton, WI | On Site | Apr 16 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e1788140a62c1fa93b8a05?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Apr 16 |
 | **[Nascent Markets](https://www.nascentmarkets.xyz/)** | **[Agentic Systems Intern (Graduate Level)](https://jobright.ai/jobs/info/69e296675c44d4710fe25df1?utm_campaign=1079&utm_source=git)** | Toronto, ON | Remote | Apr 16 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/69e31a283770bd5361cda9d0?utm_campaign=1079&utm_source=git)** | Lexington Park, Maryland, 20653 | On Site | Apr 16 |
+
+### 🕒 Batch updated: 2026-04-18 01:07 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69c59e63e565c26a70012bca?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Apr 17 |
 
 ### 🕒 Batch updated: 2026-04-17 22:29 ET
 
@@ -603,17 +609,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 IT Development Intern](https://jobright.ai/jobs/info/69de5af35913ad339813cbe9?utm_campaign=1079&utm_source=git)** | Shakopee,MN,US | On Site | Apr 14 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/69de5aebaba61f14173147a1?utm_campaign=1079&utm_source=git)** | Texas-Irving | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Application Developer Intern 2026- Azure Cloud Migration](https://jobright.ai/jobs/info/69d5df15366bb95ba5549831?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-
-### 🕒 Batch updated: 2026-04-15 03:47 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[SmallChess](https://smallchess.com/)** | **[Paid Full-Stack Programming Internship (Chess)](https://jobright.ai/jobs/info/69df2143aba61f141731a63c?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 14 |
-| **[GenPark](https://genpark.ai)** | **[Full stack engineer intern](https://jobright.ai/jobs/info/69df20beaba61f141731a4b0?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Application Developer Intern 2026- Asset Management](https://jobright.ai/jobs/info/69df0ad55913ad3398141fd4?utm_campaign=1079&utm_source=git)** | Monroe, MI | On Site | Apr 14 |
-| ↳ | **[Package Specialist Intern 2026- SAP HANA SCM MM](https://jobright.ai/jobs/info/69defad4aba61f1417319373?utm_campaign=1079&utm_source=git)** | Lansing, MI | On Site | Apr 14 |
-| ↳ | **[Application Developer Intern 2026- Asset Management](https://jobright.ai/jobs/info/69df20de433ac8430e0df05e?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Apr 14 |
-| ↳ | **[Application Developer Intern 2026 - Salesforce](https://jobright.ai/jobs/info/69df1efe18cf504166e325e7?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Apr 14 |
-| ↳ | **[Application Developer Intern 2026- Oracle Middleware](https://jobright.ai/jobs/info/69df109918cf504166e32187?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Apr 14 |
-| ↳ | **[Application Developer Intern 2026- Asset Management](https://jobright.ai/jobs/info/69df1083aba61f1417319fa3?utm_campaign=1079&utm_source=git)** | Lansing, MI | On Site | Apr 14 |
 
