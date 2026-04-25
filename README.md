@@ -4,14 +4,23 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-25 14:54 ET
+### 🕒 Batch updated: 2026-04-25 17:37 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA AI](http://nvda.ws/2nfcPK3)** | **[Software Engineering Intern, JAX - Fall 2026](https://jobright.ai/jobs/info/69ed12f958811370cb1412ae?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
+| **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/69b441c13b74eb1e2c816ad8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| ↳ | **[Supercomputing Intern](https://jobright.ai/jobs/info/69b4412c3b74eb1e2c816897?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| **[SQUID3 Space](https://www.squid3.space)** | **[Flight Software Engineer — ISS Payload (Intern)](https://jobright.ai/jobs/info/69ed0791dc35f7132c4b807e?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 25 |
+| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69ed072258811370cb141273?utm_campaign=1079&utm_source=git)** | Topeka, KS | Hybrid | Apr 25 |
+| **[Etched](https://www.etched.com)** | **[Architecture Intern - Inference](https://jobright.ai/jobs/info/69b44b9c569738374138f8ec?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| **[Typeface](https://www.typeface.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ecfefa58811370cb1411a6?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Apr 25 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[QA Software Testing Internship](https://jobright.ai/jobs/info/69ecf7c24b0fa35a70783c44?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Apr 25 |
 | **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 25 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69eb58497820c036924f3573?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 25 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir, Internship](https://jobright.ai/jobs/info/69b303d2ad360c0340a813dd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 25 |
+| **[Etched](https://www.etched.com)** | **[PD Intern](https://jobright.ai/jobs/info/69b43f9e06c1ba00c5457503?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/691d48c80b7dff7341501fe9?utm_campaign=1079&utm_source=git)** | Owensboro, KY | On Site | Apr 25 |
 | **[STMicroelectronics](https://www.st.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/695d7563f5f3c43f38e242ad?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/69e8c24a0a6e095553036455?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
@@ -100,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Hue.](https://poweredbyhue.com)** | **[Software Engineering Intern (Full Stack)](https://jobright.ai/jobs/info/69b36f3da8ac8e70ff67b58d?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69ebb7a358811370cb13bf5a?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Apr 24 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69eb7fa94b0fa35a7077b9da?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 24 |
+
+### 🕒 Batch updated: 2026-04-25 14:54 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69eabf330a6e095553042a48?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Apr 24 |
 | ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69eab77b3aa0c479643b1505?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir, Internship](https://jobright.ai/jobs/info/69eb964f7820c036924f5671?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Apr 24 |
@@ -518,20 +532,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Kira](https://www.kira-learning.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e848ab7820c036924db975?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 21 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e84f6e58811370cb12238e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[Southern California Association of Governments](https://scag.ca.gov)** | **[Intern (Information Technology - EPMO)](https://jobright.ai/jobs/info/69e7fdd7e0cd471b2f12eaea?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Apr 21 |
-
-### 🕒 Batch updated: 2026-04-22 15:14 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Atomic Semi](https://atomicsemi.com)** | **[Fab Software Engineering Intern - Fall](https://jobright.ai/jobs/info/69e8d8ec7820c036924e347e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 22 |
-| **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69e7fba558811370cb11fa79?utm_campaign=1079&utm_source=git)** | US - Remote | Remote | Apr 21 |
-| **[Figure](https://www.figure.ai)** | **[Embedded Software Intern [Fall 2026]](https://jobright.ai/jobs/info/69e7fb9a58811370cb11fa66?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
-| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Computational Design](https://jobright.ai/jobs/info/69af2f10dfaeda6ff59744ab?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 21 |
-| **[LiveRamp](http://www.liveramp.com)** | **[Intern, Software Development Engineer in Test](https://jobright.ai/jobs/info/69e821020a6e09555302e73b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 21 |
-| **[Radian](https://www.radian.com/)** | **[Software Engineering/Development Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e7f87df8fa2f3ec32aab4b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
-| ↳ | **[Software Engineering/Development Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e7f87ce0cd471b2f12e9a4?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Remote | Apr 21 |
-| ↳ | **[Software Engineering GenAI Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e7f8790a6e09555302d63e?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
-| ↳ | **[Software Engineering GenAI Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e7f83f58811370cb11f864?utm_campaign=1079&utm_source=git)** | Wayne, PA | Remote | Apr 21 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Software Developer Internship](https://jobright.ai/jobs/info/69e7f7e20a6e09555302d60f?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Apr 21 |
-| **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69e7f7a47820c036924d94e0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
 
