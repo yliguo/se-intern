@@ -4,12 +4,16 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-02 05:58 ET
+### 🕒 Batch updated: 2026-05-02 09:13 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Novalytics](www.novalytics.ca)** | **[Full-Stack Intern](https://jobright.ai/jobs/info/69f5988ca3d34b4f76f55a6c?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6986ae758da7a6120461930b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher - (Seed Infra-Compiler) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69daee68b67cec4f9b0ac945?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
+| ↳ | **[Student Researcher - (Seed Infra-Compiler) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69daada35356a60f40fe3a2a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696850701703f05405a9fecd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
+| ↳ | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-GPU Systems & Model Optimization) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857545348f733a5c39dfa5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Geographic Information Systems, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f59fa181706a5bd2166c78?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | May 01 |
 | **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69f57c8ca3d34b4f76f55717?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | May 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Enterprise Architecture Enablement](https://jobright.ai/jobs/info/69f57c670b36ff03547524fa?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | May 01 |
@@ -105,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69f5444743a25828a8d18135?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f51e2fdb88714bcdfb2257?utm_campaign=1079&utm_source=git)** | Canada | Remote | Apr 30 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer - Web & AI](https://jobright.ai/jobs/info/69f3eb876942c746fa6960e2?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 30 |
+
+### 🕒 Batch updated: 2026-05-02 05:58 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Novalytics](www.novalytics.ca)** | **[Full-Stack Intern](https://jobright.ai/jobs/info/69f5988ca3d34b4f76f55a6c?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 01 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69f3df74343eef4fb0a9ea91?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dcecc78b9e45189585fc?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | Apr 30 |
 | ↳ | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dc8c1f90bd6ae23d2497?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Apr 30 |
@@ -622,15 +632,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern(Video-on-Demand Algorithm) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/699c1b5181476f6176b47b9a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69eaffd716b2612c2a1184aa?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 28 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[IT Intern-Corporate](https://jobright.ai/jobs/info/69f07cce825a315d7ca32107?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Apr 28 |
-
-### 🕒 Batch updated: 2026-04-29 04:22 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[GenPark](https://genpark.ai)** | **[Web Development intern](https://jobright.ai/jobs/info/69f1a37a8feca91f149215ee?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Software Testing Internship - Remote & Part-Time](https://jobright.ai/jobs/info/69f1817e825a315d7ca3848a?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 28 |
-| **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f173308feca91f1492020b?utm_campaign=1079&utm_source=git)** | Oakland, CA | On Site | Apr 28 |
-| **[Sieve](https://www.sievedata.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f07654ecbc8c2f731ff916?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
-| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f059f82b095843b0312622?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
-| **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/69f03746b27fee43e8cd2c84?utm_campaign=1079&utm_source=git)** | US-CO-Colorado Springs | Hybrid | Apr 27 |
 
