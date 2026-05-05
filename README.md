@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-05 01:43 ET
+### 🕒 Batch updated: 2026-05-05 04:10 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -24,6 +24,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/69f9229ca3d34b4f76f6070a?utm_campaign=1079&utm_source=git)** | United States-Florida-Melbourne, US | On Site | May 04 |
 | **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[R&D Computer Scientist Intern](https://jobright.ai/jobs/info/69f9228081706a5bd2170bc1?utm_campaign=1079&utm_source=git)** | United States of America,  California,  Brea, US | On Site | May 04 |
 | **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/69f921a1db88714bcdfbdf43?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
+| **[Avanade](http://www.avanade.com)** | **[Infrastructure/Cloud Engineer](https://jobright.ai/jobs/info/69a2cd0ab600907a96293a05?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | May 04 |
 | **[ECS (Equus Compute Solutions)](http://equuscs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f91c170b36ff035475d509?utm_campaign=1079&utm_source=git)** | City of Industry, CA | On Site | May 04 |
 | **[The Linguabridge](www.thelinguabridge.com)** | **[Remote Student Intern](https://jobright.ai/jobs/info/69f912f8b1fc847fc1aea898?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f533cea3d34b4f76f54467?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 04 |
@@ -108,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Student Researcher - (Seed Infra-Compiler) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69daada35356a60f40fe3a2a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696850701703f05405a9fecd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[RESEARCH AND DEVELOPMENT INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fb943d643757b0e453f42?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 02 |
+
+### 🕒 Batch updated: 2026-05-05 01:43 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-GPU Systems & Model Optimization) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857545348f733a5c39dfa5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
 
 ### 🕒 Batch updated: 2026-05-04 22:46 ET
@@ -346,17 +352,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern (Fall)](https://jobright.ai/jobs/info/69f5652381706a5bd21661ac?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern- Application Software Development](https://jobright.ai/jobs/info/69f3d1926942c746fa694e91?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 30 |
 | **[General Dynamics](https://www.gd.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69f3d1196942c746fa694d54?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | On Site | Apr 30 |
-
-### 🕒 Batch updated: 2026-05-01 22:44 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Fall)](https://jobright.ai/jobs/info/69f51be30b36ff035475081e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
-| **[IBM](http://www.ibm.com)** | **[SW Developer Intern](https://jobright.ai/jobs/info/69f51bad0b36ff0354750786?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 01 |
-| ↳ | **[Software Engineer – Entry Level - Intern Conversion](https://jobright.ai/jobs/info/69f3d116461b9b613a62413c?utm_campaign=1079&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 30 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Trading System Engineering Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d11158b23a2329da8088?utm_campaign=1079&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
-| **[WIKA Group](http://www.wika.us)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f3d11058b23a2329da807f?utm_campaign=1079&utm_source=git)** | San Marcos, TX | On Site | Apr 30 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern- Application Software Development](https://jobright.ai/jobs/info/69f3d0d36942c746fa694ca9?utm_campaign=1079&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Apr 30 |
-| **[General Dynamics](https://www.gd.com)** | **[Software Engineer – Entry Level - Intern Conversion](https://jobright.ai/jobs/info/69f3cf9dc78b9e4518957d7b?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 30 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Software Development Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/69f3cbd6343eef4fb0a9e24a?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Apr 30 |
 
