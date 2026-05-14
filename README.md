@@ -4,17 +4,28 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-13 18:12 ET
+### 🕒 Batch updated: 2026-05-13 23:29 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IT Architecture / Research Internship 2026](https://jobright.ai/jobs/info/6a04d7e5bc4184089f23fd96?utm_campaign=1079&utm_source=git)** | Davidson, NC | On Site | May 13 |
-| **[Interact Health PRO](https://interacthealthpro.com)** | **[AI FULL STACK APP DEVELOPER INTERN](https://jobright.ai/jobs/info/6a04d7de6c07461fe1711122?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | May 13 |
+| **[V2X Inc](https://gov2x.com)** | **[2026 Software Engineering Intern](https://jobright.ai/jobs/info/69eae16916b2612c2a117c48?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | May 13 |
+| **[Anritsu](https://www.anritsu.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/6a051ee86c07461fe17140f1?utm_campaign=1079&utm_source=git)** | Morgan Hill, California, United States | On Site | May 13 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Fall 26)](https://jobright.ai/jobs/info/6a051548f3d6cc51d638664a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Architecture, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/6a0507854373b07358a397fd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[Game Plan Tech](https://gameplan.tech)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0503a1bc4184089f2420a7?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 13 |
+| **[ITASCA International Inc.](https://www.itascainternational.com/)** | **[Intern Web Developer (May-December) - Minneapolis, Minnesota, USA](https://jobright.ai/jobs/info/6a0500c2f3d6cc51d6385cf4?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Engineer- Backend Intern (Fall 2026)](https://jobright.ai/jobs/info/6a04f96c6c07461fe17125f4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 13 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Test Intern (Fall)](https://jobright.ai/jobs/info/6a04f6bdbc4184089f24121c?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, USA | On Site | May 13 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer Intern](https://jobright.ai/jobs/info/6a04f2b5bc4184089f240f00?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | Remote | May 13 |
+| **[Eulerity](https://www.eulerity.com)** | **[Backend Developer Summer Intern](https://jobright.ai/jobs/info/69c4391fd5a1016e98db512e?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Hybrid | May 13 |
+| **[DeepHealth](https://deep.health)** | **[Software Developer -  INTERN](https://jobright.ai/jobs/info/6a04e9a4bc4184089f2409fc?utm_campaign=1079&utm_source=git)** | Seattle, US | On Site | May 13 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Engineer- Backend Intern (Fall 2026)](https://jobright.ai/jobs/info/6a04e2a16c07461fe17118bb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 13 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer Intern](https://jobright.ai/jobs/info/6a04e2926c07461fe17118b3?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 13 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Software Development Seasonal Intern](https://jobright.ai/jobs/info/6a04e21e6c07461fe17117d8?utm_campaign=1079&utm_source=git)** | Wilmington, DE | On Site | May 13 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04d6544373b07358a373c1?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 13 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a04d5e26c07461fe1711015?utm_campaign=1079&utm_source=git)** | Hanover, MD | On Site | May 13 |
 | **[Miraphoto](https://miraphoto.webflow.io)** | **[Software Engineer Intern - Backend](https://jobright.ai/jobs/info/6a04d38a7c753c287f6f3e42?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
-| **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Backend Database Engineer Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/6a04cff4bc4184089f23f133?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
 | **[Intapp](http://www.intapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a04cd5a22395b6dc6da0efd?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 13 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04cbe34373b07358a36e20?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 13 |
 | ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04cbe34373b07358a36e21?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 13 |
@@ -55,10 +66,10 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Internship or Seasonal Role in Programming and Information Technology](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Applications Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a03d6c27c753c287f6eaa94?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | May 12 |
 | **[Alto](https://www.altotrain.ca)** | **[Intern, SAP](https://jobright.ai/jobs/info/6a03fb5e22395b6dc6d995d7?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
-| **[PayCloud Innovations](http://www.paycloudinnovations.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03d59822395b6dc6d98339?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a03d58222395b6dc6d982d9?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | May 12 |
 | **[IMDEX](https://imdexlimited.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03cbd122395b6dc6d980e5?utm_campaign=1079&utm_source=git)** | San Luis Obispo,CA,US | On Site | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03c73c8ecfd93cd9c11a77?utm_campaign=1079&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | May 12 |
+| **[Onyx Odds](https://onyxodds.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a04e3274373b07358a37cb4?utm_campaign=1079&utm_source=git)** | New York City | On Site | May 12 |
 | **[Nextpower](https://nextpower.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03be2122395b6dc6d9795c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 12 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Software Development & Automation - Summer 2026](https://jobright.ai/jobs/info/6a03b5fef3d6cc51d63795ad?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | May 12 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer](https://jobright.ai/jobs/info/6a03b5e022395b6dc6d977d9?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | May 12 |
@@ -98,6 +109,15 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[BMO](http://www.bmo.com)** | **[Technology Research Associate, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230928?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | May 12 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03396522395b6dc6d925b5?utm_campaign=1079&utm_source=git)** | Provo, UT, Provo, UT, US | On Site | May 12 |
+
+### 🕒 Batch updated: 2026-05-13 18:12 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IT Architecture / Research Internship 2026](https://jobright.ai/jobs/info/6a04d7e5bc4184089f23fd96?utm_campaign=1079&utm_source=git)** | Davidson, NC | On Site | May 13 |
+| **[Interact Health PRO](https://interacthealthpro.com)** | **[AI FULL STACK APP DEVELOPER INTERN](https://jobright.ai/jobs/info/6a04d7de6c07461fe1711122?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | May 13 |
+| **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Backend Database Engineer Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/6a04cff4bc4184089f23f133?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
+| **[PayCloud Innovations](http://www.paycloudinnovations.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03d59822395b6dc6d98339?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a03229422395b6dc6d917ee?utm_campaign=1079&utm_source=git)** | US-MD-Hanover | On Site | May 12 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a033ecc7c753c287f6e52a9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | **[Eagle 3D Streaming](https://eagle3dstreaming.com)** | **[NODE JS PROGRAMMER](https://jobright.ai/jobs/info/6a033915ed6a637463f4db03?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | May 12 |
@@ -497,15 +517,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[GenPark](https://genpark.ai)** | **[Front End Engineer intern](https://jobright.ai/jobs/info/6a009850238f143e83529dd8?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | May 10 |
 | **[DocuWare](https://start.docuware.com)** | **[Software Engineer Intern (Working Student)](https://jobright.ai/jobs/info/6a0094ecfa1aa73213d90413?utm_campaign=1079&utm_source=git)** | USA | Hybrid | May 10 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern](https://jobright.ai/jobs/info/69c551ac1818a24cd84b3d2a?utm_campaign=1079&utm_source=git)** | Dulles, VA | Hybrid | May 08 |
-
-### 🕒 Batch updated: 2026-05-10 09:19 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Startup Lab 2026: Engineering Associate](https://jobright.ai/jobs/info/69a7729f2672cb0acb4be924?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | On Site | May 08 |
-| **[Preferred Risk Insurance Services](http://priscorp.net/)** | **[Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/69fe46f57714cd50b90ffd43?utm_campaign=1079&utm_source=git)** | Bedford Park,IL,US | On Site | May 08 |
-| **[AMD](http://www.amd.com)** | **[Short Term 2026 Firmware Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69febd5a1161630dd3b04572?utm_campaign=1079&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
-| ↳ | **[Short Term 2026 Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69febd5a1161630dd3b04575?utm_campaign=1079&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69fdd660ad691a11f34ea990?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | May 08 |
-| **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69c4221733eecf3107943d98?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 08 |
 
