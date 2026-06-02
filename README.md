@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-06-02 16:49 ET
+### 🕒 Batch updated: 2026-06-02 19:02 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -514,16 +514,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Co-op/Intern Software Developer, Core Algorithms](https://jobright.ai/jobs/info/6a185c2d6243320e8d1635f3?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | On Site | May 28 |
 | **[International Logic Systems, Inc.](http://www.intllogic.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a185c19c2a87d6cd3defff0?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | Hybrid | May 28 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a185c15c2a87d6cd3deffdd?utm_campaign=1079&utm_source=git)** | US-VA-Fairfax | Hybrid | May 28 |
-
-### 🕒 Batch updated: 2026-05-29 16:25 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[FourKites, Inc.](https://www.fourkites.com/)** | **[Engineering Internship](https://jobright.ai/jobs/info/6a19bd999111f771d1a08038?utm_campaign=1079&utm_source=git)** | Chicago | On Site | May 29 |
-| ↳ | **[Engineering Internship](https://jobright.ai/jobs/info/6a19bd639111f771d1a07fe9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 29 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Intern](https://jobright.ai/jobs/info/6a19bcbbe24ef36525827112?utm_campaign=1079&utm_source=git)** | SIMPL - 8820, US | On Site | May 29 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Full-Stack Developer Internship — Frontend Focus](https://jobright.ai/jobs/info/6a19b911547e292ae1393fa2?utm_campaign=1079&utm_source=git)** | United States | Remote | May 29 |
-| **[LMI](http://www.lmi.org)** | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185bbf6243320e8d1634dd?utm_campaign=1079&utm_source=git)** | US-DC-Washington, DC | On Site | May 28 |
-| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185bbc6243320e8d1634d3?utm_campaign=1079&utm_source=git)** | Washington, DC, DC, US | On Site | May 28 |
-| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185bbb6243320e8d1634cf?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 28 |
 
