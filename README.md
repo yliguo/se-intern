@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-06-27 06:57 ET
+### 🕒 Batch updated: 2026-06-27 09:43 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -433,10 +433,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3591e67f3fdd180d4ce0f6?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 19 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Core Algorithms](https://jobright.ai/jobs/info/6a3453a67f3fdd180d4c9f3f?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jun 19 |
 | **[Unity](https://unity.com/)** | **[ML Infrastructure Engineer - (Early Career/Internship)](https://jobright.ai/jobs/info/6a2a2ce30c4972328e7e75fc?utm_campaign=1079&utm_source=git)** | Remote, Washington, USA | Remote | Jun 19 |
-
-### 🕒 Batch updated: 2026-06-23 13:17 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[XPENG](https://www.xiaopeng.com)** | **[Agentic Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0e9fd009ecfd704b3ea45c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 20 |
 
