@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-06-27 04:35 ET
+### 🕒 Batch updated: 2026-06-27 06:57 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -439,14 +439,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[XPENG](https://www.xiaopeng.com)** | **[Agentic Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0e9fd009ecfd704b3ea45c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 20 |
-
-### 🕒 Batch updated: 2026-06-23 10:51 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Quanvers](https://quanvers.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a39975806a4fd4b1fabb022?utm_campaign=1079&utm_source=git)** | Middlesex County, NJ | Hybrid | Jun 22 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46e90f6f7e7a2ce91a35?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Jun 22 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/6a35819429c90c607e4e2729?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | Jun 19 |
-| **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/6a35767629c90c607e4e2545?utm_campaign=1079&utm_source=git)** | Norcross, GA | On Site | Jun 19 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/695a169aaa05c26e7ab3b2f6?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 19 |
 
