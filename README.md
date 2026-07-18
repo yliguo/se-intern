@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 01:25 ET
+### 🕒 Batch updated: 2026-07-18 03:49 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -417,14 +417,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Serval](https://www.serval.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a5528b6377f983ce8a982e2?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Software Engineering Intern I, Summer 2027](https://jobright.ai/jobs/info/6a5523be2084cd792b47670b?utm_campaign=1079&utm_source=git)** | Nashua, New Hampshire, United States | On Site | Jul 13 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Intern](https://jobright.ai/jobs/info/6a556b80377f983ce8a9a320?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-
-### 🕒 Batch updated: 2026-07-15 04:09 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Platform User Operations Project Intern (TikTok Platform Responsibility) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a55c17cec54dd532d813265?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Web Developer/Programmer Intern/Volunteer](https://jobright.ai/jobs/info/6a556b5bae07d60a8d011553?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/6a32fa41f6b55d12c7916dbe?utm_campaign=1079&utm_source=git)** | St. Paul, MN, United States | On Site | Jul 13 |
-| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher – Multimodal & Voice Interaction (HCI)](https://jobright.ai/jobs/info/6a55529e4119652ff3864fbc?utm_campaign=1079&utm_source=git)** | Markham, Canada | On Site | Jul 13 |
-| **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a554fbe268af95237beacbc?utm_campaign=1079&utm_source=git)** | Plano, TX, United States | On Site | Jul 13 |
 
