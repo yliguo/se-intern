@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 03:49 ET
+### 🕒 Batch updated: 2026-07-18 06:17 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -408,13 +408,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Digital Physical Design (P&R) Intern](https://jobright.ai/jobs/info/6a555967ae07d60a8d010bfc?utm_campaign=1079&utm_source=git)** | Chandler, AZ, United States | Hybrid | Jul 13 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Digital Technology Intern](https://jobright.ai/jobs/info/6a558edbf2c46727285f2cb3?utm_campaign=1079&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 13 |
 | **[VetsEZ](https://vetsez.com)** | **[Full Stack Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/6a47cacfc2d11a6a4667308b?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Jul 13 |
-
-### 🕒 Batch updated: 2026-07-15 06:49 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Onware](https://www.onware.com/)** | **[Full Stack Developer- Summer Intern Opportunity](https://jobright.ai/jobs/info/6a558334f2c46727285f2981?utm_campaign=1079&utm_source=git)** | Edmonton, Canada | On Site | Jul 13 |
-| **[Serval](https://www.serval.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a5528b6377f983ce8a982e2?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
-| **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Software Engineering Intern I, Summer 2027](https://jobright.ai/jobs/info/6a5523be2084cd792b47670b?utm_campaign=1079&utm_source=git)** | Nashua, New Hampshire, United States | On Site | Jul 13 |
-| **[Jean Martin](https://www.jeanmartin.com/)** | **[Intern](https://jobright.ai/jobs/info/6a556b80377f983ce8a9a320?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 
