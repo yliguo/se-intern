@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 09:14 ET
+### 🕒 Batch updated: 2026-07-18 11:57 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -383,24 +383,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a312ec50ff23769fdb1c5ee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Digital Technology Intern](https://jobright.ai/jobs/info/6a55d4b0ec54dd532d814726?utm_campaign=1079&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 13 |
 | **[Advita Ortho](http://www.advita.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a43336acbf92c7bcd36ef11?utm_campaign=1079&utm_source=git)** | Gainesville, FL, United States | On Site | Jul 13 |
-
-### 🕒 Batch updated: 2026-07-15 12:21 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/6a5791a1f7517b519ad5ae84?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 15 |
-| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a5782d4a791c6211befe903?utm_campaign=1079&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 15 |
-| **[Kulkul Technology](https://kulkul.tech)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a570f46e9b77f668bd668fa?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 14 |
-| **[Travelers](https://upstateinsurance.com)** | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6a56b4cb53b3962b910b2109?utm_campaign=1079&utm_source=git)** | Hartford, CT, US | Hybrid | Jul 14 |
-| ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6a56b1f4f7517b519ad57769?utm_campaign=1079&utm_source=git)** | Hartford, CT, United States | On Site | Jul 14 |
-| **[SoKat](https://sokat.com)** | **[🚀 AI & AR/VR Innovation Intern](https://jobright.ai/jobs/info/6a565fc410c4d945d8649177?utm_campaign=1079&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 14 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Software Engineer Intern - Undergraduate Students](https://jobright.ai/jobs/info/6a56482353b3962b910af1c9?utm_campaign=1079&utm_source=git)** | 10 Park Plaza, Boston | Hybrid | Jul 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a312ec50ff23769fdb1c5ee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
-| ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a51030078e364789ca57f82?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| **[Brilent](http://www.brilent.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a55cfbc2ce8bf79a13a13a1?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Web Developer/Programmer Internship](https://jobright.ai/jobs/info/6a55cb94ef22935f2e3f72b0?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[Chatsworth Products](http://www.chatsworth.com)** | **[Electronics Software Engineer Internship](https://jobright.ai/jobs/info/6a4330cf4461bf091787aba6?utm_campaign=1079&utm_source=git)** | Round Rock Plant - Round Rock, TX 78665 | On Site | Jul 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Platform User Operations Project Intern (TikTok Platform Responsibility) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a55c17cec54dd532d813265?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| **[SPREEAI](https://www.spreeai.com)** | **[Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web)](https://jobright.ai/jobs/info/6a55c0bd14f1040fa611b773?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 13 |
-| **[SkyNano](https://www.skynanotechnologies.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/6a55beae2ce8bf79a13a0611?utm_campaign=1079&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 13 |
 
