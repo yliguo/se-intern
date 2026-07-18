@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 11:57 ET
+### 🕒 Batch updated: 2026-07-18 15:03 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -365,22 +365,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Zipline](https://www.zipline.com/)** | **[Enterprise Systems Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a559cbc78d1443bd1e810b7?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 14 |
 | **[Instead](https://www.instead.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a3271ed2ee3ac1b4bef3219?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jul 14 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Software Engineer Intern - Air Taxi](https://jobright.ai/jobs/info/6a56181d10c4d945d8647a43?utm_campaign=1079&utm_source=git)** | San Carlos, CA, United States | On Site | Jul 14 |
-
-### 🕒 Batch updated: 2026-07-15 15:10 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[TalentSphere Global](talentsphereglobal.net)** | **[Software Engineering Expert Intern](https://jobright.ai/jobs/info/6a57bc70e9b77f668bd6a79f?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Jul 15 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Quality Assurance Internship](https://jobright.ai/jobs/info/6a5798fdefb06a45240db3ca?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 15 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a578867efb06a45240dae30?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
-| **[Textron Aviation](http://txtav.com)** | **[Stage automne 2026 - Technologie de l'information / 2026 fall Internship - Information Technology (Mirabel, QC)](https://jobright.ai/jobs/info/6a568861efb06a45240d686f?utm_campaign=1079&utm_source=git)** | CA-Quebec-Mirabel | On Site | Jul 14 |
-| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Embedded Software Engineer (Fall 2026)](https://jobright.ai/jobs/info/6a39e464649fdf16293033b7?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-| **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/6a2976b81de59e0682a7f46d?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Jul 14 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6a55f78621f64463ad351291?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Jul 14 |
-| **[MyEmployment](www.myemployment.com)** | **[AI Product Engineer Intern](https://jobright.ai/jobs/info/6a55f1a1392ae330b30e816d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 14 |
-| **[Lanyard Health](https://www.lanyardhealth.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6a55efb721f64463ad350c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a51030078e364789ca57f82?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a312ec50ff23769fdb1c5ee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
-| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Digital Technology Intern](https://jobright.ai/jobs/info/6a55d4b0ec54dd532d814726?utm_campaign=1079&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 13 |
-| **[Advita Ortho](http://www.advita.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a43336acbf92c7bcd36ef11?utm_campaign=1079&utm_source=git)** | Gainesville, FL, United States | On Site | Jul 13 |
 
