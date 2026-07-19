@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 22:43 ET
+### 🕒 Batch updated: 2026-07-19 01:52 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -339,18 +339,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[First Solar](http://www.firstsolar.com)** | **[Software Engineer Intern (1st Shift)](https://jobright.ai/jobs/info/6a56963c21f64463ad3557c4?utm_campaign=1079&utm_source=git)** | Perrysburg, OH, United States | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Full Stack Web, Summer 2027](https://jobright.ai/jobs/info/6a552da4ae07d60a8d00f7de?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - Python, Summer 2027](https://jobright.ai/jobs/info/6a552da2f2c46727285f0607?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-
-### 🕒 Batch updated: 2026-07-16 01:40 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA - Quality Assurance Internship - IT / Software](https://jobright.ai/jobs/info/6a583a7572fe7a7b98dcd7e5?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 15 |
-| **[IBM](http://www.ibm.com)** | **[Intern Conversion: Software Developer](https://jobright.ai/jobs/info/6a5841a968d16a30e241250f?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Jul 15 |
-| **[Pony.ai](https://www.pony.ai)** | **[Software Engineer Intern - Generalist](https://jobright.ai/jobs/info/6a2e9442f1751b183c81c6c7?utm_campaign=1079&utm_source=git)** | Fremont, CA, US | On Site | Jul 15 |
-| **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Python, Summer 2027](https://jobright.ai/jobs/info/6a552da2f2c46727285f0607?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| ↳ | **[Software Engineer Intern - Full Stack Web, Summer 2027](https://jobright.ai/jobs/info/6a552da4ae07d60a8d00f7de?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a43d4dd105260150b71e51b?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
-| **[Rippling](https://www.rippling.com)** | **[Full Stack Software Engineer Intern - Winter 2027](https://jobright.ai/jobs/info/6a2aab7ed3ec8317fe1448c6?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 14 |
-| **[TMX Group](http://www.tmx.com)** | **[Software Engineer Intern (Java)](https://jobright.ai/jobs/info/6a565f2910c4d945d8649111?utm_campaign=1079&utm_source=git)** | Toronto - 100 Adelaide St W, Canada | Hybrid | Jul 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9f7889f8f147d37323ad?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
 
