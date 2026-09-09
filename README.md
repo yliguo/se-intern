@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-09-09 16:31 ET
+### 🕒 Batch updated: 2026-09-09 18:58 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -769,31 +769,4 @@ Automatically synced from **jobright-ai/2026-Software-Engineer-Internship**
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Web and Apps Developer - Intern](https://jobright.ai/jobs/info/6a9b1a12d5ff1f3f1c39da8d?utm_campaign=1079&utm_source=git)** | Richardson, TX, United States | Hybrid | Sep 04 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Web Content Developer & Editor - Student Intern](https://jobright.ai/jobs/info/6a9b193613883870605969c4?utm_campaign=1079&utm_source=git)** | Albany, NY, United States | On Site | Sep 04 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Core Algorithms](https://jobright.ai/jobs/info/6a9b156790a313642c65884a?utm_campaign=1079&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 04 |
-
-### 🕒 Batch updated: 2026-09-04 23:15 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[CNH](http://www.cnhindustrial.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a9b3fec90a313642c6595ce?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 04 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6a99d73e551435518ebf181b?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 04 |
-| ↳ | **[2027 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6a9a0f14040e5c3d0759a8f8?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 04 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - Quality Assurance Engineer - Washington -](https://jobright.ai/jobs/info/6a9b57941388387060597d3a?utm_campaign=1079&utm_source=git)** | Redmond, WA, United States | On Site | Sep 04 |
-| ↳ | **[Software Engineering Intern - Applications (Infotainment & Mobile)](https://jobright.ai/jobs/info/6a9b23d9fe45b8490f606fa5?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Sep 04 |
-| **[HDR](http://www.hdrinc.com)** | **[Software Development Intern-RR](https://jobright.ai/jobs/info/6a9b3d2b90a313642c659538?utm_campaign=1079&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 04 |
-| **[Bridge IR Co.](https://www.linkedin.com/company/113149050)** | **[Founding Engineering Intern](https://jobright.ai/jobs/info/6a9b3896d5ff1f3f1c39e41c?utm_campaign=1079&utm_source=git)** | New York City, New York, United States | Remote | Sep 04 |
-| ↳ | **[Co-op/Intern Test Developer, Product Verification](https://jobright.ai/jobs/info/6a9b156ed5ff1f3f1c39d949?utm_campaign=1079&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 04 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern 1](https://jobright.ai/jobs/info/6a9b153ed5ff1f3f1c39d933?utm_campaign=1079&utm_source=git)** | New Holland, PA, United States | On Site | Sep 04 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)](https://jobright.ai/jobs/info/6a9ae256d5ff1f3f1c39b946?utm_campaign=1079&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 04 |
-| ↳ | **[Intern - Project Delivery (Information Services / Computer Science Majors)](https://jobright.ai/jobs/info/6a9ae20d13883870605947cf?utm_campaign=1079&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a66a73687cef057612d04a9?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Sep 04 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Aviation Web Development](https://jobright.ai/jobs/info/6a9b0fa1d5ff1f3f1c39d70c?utm_campaign=1079&utm_source=git)** | Middlebury, CT, United States | On Site | Sep 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer](https://jobright.ai/jobs/info/6a71a42402d93145bf89023c?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Sep 04 |
-| **[Brave](https://www.brave.com/)** | **[Software Engineering Intern - Waterloo University](https://jobright.ai/jobs/info/6a9b0aeb90a313642c6584cb?utm_campaign=1079&utm_source=git)** | Canada | Remote | Sep 04 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Software Engineer Internship - Charlotte, NC (Summer 2027)](https://jobright.ai/jobs/info/6a9b0a372cdc5958f53ea8f3?utm_campaign=1079&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 04 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Innovations Intern (Full Stack/Front End Engineering)](https://jobright.ai/jobs/info/6a88842a680f314a29d3c645?utm_campaign=1079&utm_source=git)** | New York | On Site | Sep 04 |
-| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Winter 2027 - Software Engineering - 8 Months](https://jobright.ai/jobs/info/6a9b0203fe45b8490f606621?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Sep 04 |
-| **[Axpo Group](https://www.axpo.com/)** | **[Software Developer Intern (f/m/d)](https://jobright.ai/jobs/info/6a9abcd41388387060594128?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
-| ↳ | **[Software Developer Intern (f/m/d)](https://jobright.ai/jobs/info/6a9abcd61388387060594129?utm_campaign=1079&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 04 |
-| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Winter 2027 - Software Engineering (TacCIS Solutions) -12 Months](https://jobright.ai/jobs/info/6a9b01b01388387060596265?utm_campaign=1079&utm_source=git)** | Calgary, AB, Canada | Hybrid | Sep 04 |
-| **[Owens Corning](http://www.owenscorning.com/)** | **[Global Information Services Internship (2027)](https://jobright.ai/jobs/info/6a9af5302cdc5958f53e97da?utm_campaign=1079&utm_source=git)** | Toledo, OH, United States | On Site | Sep 04 |
 
